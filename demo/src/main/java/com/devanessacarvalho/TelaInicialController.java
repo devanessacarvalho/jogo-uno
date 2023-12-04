@@ -10,7 +10,7 @@ public class TelaInicialController {
 
     @FXML
     private void play() throws IOException{
-        App.setRoot("secondary");
+        App.setRoot("Tabuleiro");
     }
 
 }
